@@ -29,3 +29,24 @@ body{
     font-size: 30px;
     color: #F06BAE;
 }
+/* login page */
+.info{
+    box-shadow: 0px 0px 4px 0px gray;
+    padding: 20px;
+}
+.sign{
+    color: white;
+}
+.input{
+    margin: 20px;
+    width: 80%;
+}
+.label{
+    margin-left: 5vh;
+}
+.query{
+    margin-left: -25px;
+}
+.signIn{
+    width: 200px;
+}

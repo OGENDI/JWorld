@@ -69,8 +69,10 @@
     
                             {{ form.password2.label() }}
                             {{ form.password2(class='form-control',placeholder='Confirm password...') }}
+                            <div class="account">
+                                <p>Already have an account? <a href="{{ url_for('login')}}">Login</a></p>
+                            </div>
                             <br>
-    
                     </div>
                     <div class="modal-footer">
                         {{ form.submit(class="btn btn-primary mb-4", style="margin-left: 8vh;")}}
