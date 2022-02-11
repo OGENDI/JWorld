@@ -70,16 +70,12 @@
                             {{ form.password2.label() }}
                             {{ form.password2(class='form-control',placeholder='Confirm password...') }}
                             <br>
-                            <div class="checkbox mb-3" style="margin-left: 9vh;">
-                                <small>Already have an account?</small>
-                                <a href="{{ url_for('login') }}">Login</a>
-                            </div>
     
-                            {{ form.submit(class="btn2 mt-3 mb-4", style="margin-left: 8vh;")}}
-                        </form>
                     </div>
                     <div class="modal-footer">
-                        <button type="button" class="btn" data-bs-dismiss="modal" style="background: #4A84E7;color: white;">Close</button>
+                        {{ form.submit(class="btn btn-primary mb-4", style="margin-left: 8vh;")}}
+                        <!-- <button type="button" class="btn btn-primary" data-bs-dismiss="modal" style="background: #4A84E7;color: white;">Close</button> -->
+                    </form>
                     </div>
                 </div>
             </div>
