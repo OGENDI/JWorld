@@ -31,3 +31,10 @@ def login():
         else:
             flash('Username and password do not match! Please try again',category='danger')
     return render_template('login.html',form=form)
+
+@app.route('/logout')
+@login_required
+def logout():
+    logout_user()
+    flash('You are logged out succesfully!',category='success')
+    return redirect(url_for("home_page"))
