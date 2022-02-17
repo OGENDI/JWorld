@@ -27,11 +27,6 @@ A Real Estate Website that gives clients the opportunity to select from the unli
 ### Installation Process
 
 
-## Live Link
-
-here is the link to the site https://fintexrealestate.netlify.app/
-
-
 ## Technology Used
 
 * Python.
@@ -49,7 +44,7 @@ here is the link to the site https://fintexrealestate.netlify.app/
 
 MIT License
 
-Copyright (c) [2021] [Fintex Real Estate Limited.]
+Copyright (c) [2021] [ Jworld ]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
