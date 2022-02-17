@@ -1,6 +1,6 @@
 # Jworld
 
-##### By Group 5 [Derrick,Nancy,Marcos,Charity,Cosmas]
+##### By Group 5 [Derick,Nancy,Marcos,Charity,Cosmas]
 
 
 ## Description
@@ -37,7 +37,7 @@ A python game that allows a player to have fun maneuvering their way through the
 
 MIT License
 
-Copyright (c) [2021] [ Jworld ]
+Copyright (c) [2022] [ Jworld ]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
