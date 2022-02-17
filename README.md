@@ -4,7 +4,7 @@
 
 
 ## Description
-A Real Estate Website that gives clients the opportunity to select from the unlimited homes available based on their personal preference and financial muscle.
+A python game that allows a player to have fun maneuvering their way through the obstacles
 
 
 
@@ -32,13 +32,6 @@ A Real Estate Website that gives clients the opportunity to select from the unli
 * Python.
 * Pygame module
 
-## Design
-
-![Design](./Images/design.png)
-
-
-## Reference
-* Materialize CSS
 
 ## Licence
 
