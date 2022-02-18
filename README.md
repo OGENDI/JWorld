@@ -1,7 +1,11 @@
 # Jworld
 
-##### By Group 5 [Derick,Nancy,Marcos,Charity,Cosmas]
-
+### Contributors
+<a href=" https://github.com/OGENDI" > Derick Ogendi</a>
+<a href=" https://github.com/nancyjamescoding" >Nancy Ndungú</a>
+<a href="https://github.com/Marcos8060" > Marcos Otieno</a>
+<a href="https://github.com/Njeri714" > Charitu Waweru</a>
+<a href="https://github.com/CosBett" > Cosmas Bett</a>
 
 ## Description
 
