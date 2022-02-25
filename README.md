@@ -1,37 +1,61 @@
 # Jworld
 
-##### By Group 5 [Derick,Nancy,Marcos,Charity,Cosmas]
-
+### Contributors
+<a href=" https://github.com/OGENDI" > Derick Ogendi</a>
+<a href=" https://github.com/nancyjamescoding" >Nancy Ndungú</a>
+<a href="https://github.com/Marcos8060" > Marcos Otieno</a>
+<a href="https://github.com/Njeri714" > Charitu Waweru</a>
+<a href="https://github.com/CosBett" > Cosmas Bett</a>
 
 ## Description
-A python game that allows a player to have fun maneuvering their way through the obstacles
 
+#### 
+This is a web base pygame application. The game  allows a player to have fun maneuvering their way through the obstacles by walking and jumping aiming to reach the final destination. The player collects coins as he maneuvers through the path to final destination. 
 
+<a href="" > Live Demo link</a> 
 
+#### latest update **18th Feb 2022**
 
-## Installation
+### Landing/home page
+![Homepage](./app/static/images/homepage.jpg)
+
+### Sign in page
+![signinpage](./app/static/images/signinpage.jpg)
+
+### How to Clone this application,
+ 1. Open the terminal
+ 2. Paste this <strong> git clone https://github.com/OGENDI/JWorld.git </strong>
+ 3. Open and edit with a code editor of your preference.
 
 ### Requirements
-
 * Either a computer,phone,tablet or an Ipad
-
 * browser
-
 * An access to the Internet
 
-* pip install pygame
-
-* Work in a virtual environment
-
+### Usage Instruction
+1. Open your browser (preferably google chrome and active internet connection is     required.) and paste the link below;
+ or <a href="" > Click here</a> to access the home page.
+2. Sign up to register
+3. Sign in to be acess and be able to play the game.
+3. Press start to play the game.
+4. Use arrow keys to move and maneuver over the obstances, up key to jump, right and left key to more in respective directions. 
+5. The page provides well label guidance to make usage easily understandable and interative.
 
 ### Installation Process
-
+ * No installation required to play throught the website. However if you want to play locally on your machine git clone the repo.
 
 ## Technology Used
+* Python- to create the website and the game is created using its pygame module.
+* Bootstrap- overall grid layout and page responsiveness.
+* CSS- extra page styling.
+* HTML- Templating 
 
-* Python.
-* Pygame module
+## Known Bugs
+1. Rendering the game on the website platform. At the moment it only runs on the Terminal shell.
 
+## Support and contact details
+
+Incase of any issues or clarification, development, ideas, concerns or contributions to the code.  Kindly reach out through any of the current contributors. 
 
 ## Licence
 
@@ -57,10 +81,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
 ## Authors Info
 
 We are self-driven and passionate about Software development. We take each day as a learning opportunity and seek to develop new skills .
 
 
 
+  

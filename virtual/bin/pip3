@@ -1,4 +1,4 @@
-#!/home/marcos/Desktop/JWorld/app/virtual/bin/python3
+#!/Users/mandela/Documents/MSP-core/JWorld/virtual/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
